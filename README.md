@@ -1,8 +1,7 @@
-# Lumora � Independent Design & Engineering Studio
+﻿# GokulNs Portfolio — Creative Design & Engineering Studio
 
-Official landing page for Lumora Studio, crafted with modern typography, smooth kinetic motion, and responsive layout.
+Official portfolio of **Gokul N**, featuring modern typography, kinetic motion, interactive projects, and high-performance web engineering.
 
-## Tech Stack
-- HTML5 / CSS3 / ES Modules
-- Smooth Scrolling powered by Lenis
-- Deployed on Vercel
+- **Live URL**: https://gokulns-portfolio.vercel.app
+- **Tech Stack**: HTML5, Modern CSS, ES Modules, Lenis Smooth Scroll
+- **Deployment**: Vercel

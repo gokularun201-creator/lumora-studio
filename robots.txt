@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gokulns-portfolio.vercel.app/sitemap.xml
