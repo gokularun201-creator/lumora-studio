@@ -1,6 +1,7 @@
 {
   "name": "gokulns-portfolio",
   "version": "1.0.0",
+  "type": "module",
   "description": "GokulNs Portfolio — Creative Design & Engineering Studio",
   "scripts": {}
 }
